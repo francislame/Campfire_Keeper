@@ -36,7 +36,7 @@ section p {
 /* Footer Styles */
 footer {
     background-color: #333;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 10px;
     text-align: center;
     margin-top: 20px;
