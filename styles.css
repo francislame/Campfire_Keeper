@@ -3,21 +3,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #ffffff;
 }
 
 /* Body Styles */
 body {
+    background-image: url(img/CampfireBG.png);
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
     line-height: 1.6;
     padding: 20px;
 }
 
 /* Header Styles */
 header {
-    background-color: #4CAF50;
     color: rgb(253, 0, 0);
     padding: 20px;
     text-align: center;
