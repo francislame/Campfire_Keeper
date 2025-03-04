@@ -17,6 +17,13 @@ body {
     padding: 20px;
 }
 
+@media only screen and (max-width: 768px) {
+    body {
+        background-attachment: scroll;
+        background-size: cover;
+    }
+}
+
 /* Header Styles */
 header {
     color: rgb(253, 0, 0);
