@@ -24,15 +24,6 @@ body {
     padding: 20px;
 }
 
-/*
-@media only screen and (max-width: 768px) {
-    body {
-        background-attachment: scroll;
-        background-size: cover;
-    }
-}
-*/
-
 /* Header Styles */
 header {
     color: rgb(253, 0, 0);
@@ -44,16 +35,19 @@ header {
 /* Section Styles */
 section {
     margin-top: 20px;
+    color: white;
 }
 
 section p {
     margin-bottom: 10px;
+    color: white;
 }
 
 /* Footer Styles */
 footer {
-    color: rgb(0, 0, 0);
+    color: white;
     text-align: left;
+    font-style: italic;
     font-size: smaller;
     margin-top: 10px;
 }
