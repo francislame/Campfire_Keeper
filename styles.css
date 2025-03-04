@@ -8,6 +8,8 @@
 /* Body Styles */
 body {
     background-image: url(img/CampfireBG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: Arial, sans-serif;
     line-height: 1.6;
     padding: 20px;
