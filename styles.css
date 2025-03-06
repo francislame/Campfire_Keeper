@@ -13,12 +13,12 @@ html, body
 
 /* Body Styles */
 body {
-    background-image: url(img/CampfireBG.png);
+    background-image: url(assets/img/CampfireBG.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-color: aquamarine;
+    background-color: black;
     font-family: Arial, sans-serif;
     line-height: 1.6;
     padding: 20px;
@@ -32,22 +32,8 @@ header {
     border-radius: 8px;
 }
 
-/* Section Styles */
 section {
-    margin-top: 20px;
-    color: white;
-}
-
-section p {
-    margin-bottom: 10px;
-    color: white;
-}
-
-/* Footer Styles */
-footer {
-    color: white;
-    text-align: left;
-    font-style: italic;
-    font-size: smaller;
     margin-top: 10px;
+    text-align: center;
+    color: white;
 }
