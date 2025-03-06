@@ -45,4 +45,10 @@ section
 {
     padding: 2mm;
     border-radius: 6px;
+    transition: opacity 5s ease;
+}
+
+.fadeButton
+{
+    opacity: 0;
 }

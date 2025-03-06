@@ -12,6 +12,7 @@ gameStartButton.addEventListener
     'click',
     function() 
         {
-        gameStartAudio.play()
+        gameStartAudio.play();
+        gameStartButton.classList.add("fadeButton");
         }
 );
