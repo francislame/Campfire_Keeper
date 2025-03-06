@@ -36,9 +36,13 @@ section
     color: white;
 }
 
+#game-start-button-container
+{
+    text-align: center;
+}
+
 #game-start-button
 {
-    display: flex;
     padding: 2mm;
     border-radius: 6px;
 }
