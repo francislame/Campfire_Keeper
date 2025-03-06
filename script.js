@@ -1,6 +1,6 @@
 // Alert Message when the page loads
 window.onload = function() {
-    alert("Welcome to Campfire Keeper!");
+    alert("This game is best played on a phone. Enjoy!");
 }
 
 // game-start button
