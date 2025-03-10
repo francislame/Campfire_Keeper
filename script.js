@@ -22,3 +22,6 @@ const canvas = document.getElementById('play-area');
 const ctx = canvas.getContext('2D');
 const CANVAS_WIDTH = canvas.width = 500;
 const CANVAS_HEIGHT = canvas.height = 500;
+
+// Campfire Image
+const campfireImage = new Image();
