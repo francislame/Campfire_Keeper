@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'IndieFlower';
+    src: url('assets/fonts/IndieFlower-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 *
 {
     margin: 0;
@@ -11,7 +18,6 @@ html, body
     width: 100%;
 }
 
-/* Body Styles */
 body
 {
     background-color: black;
@@ -20,12 +26,12 @@ body
     padding: 20px;
 }
 
-/* Header Styles */
 header
 {
     color: rgb(253, 0, 0);
     padding: 20px;
     text-align: center;
+    font-family: 'IndieFlower', sans-serif;
     border-radius: 8px;
 }
 
