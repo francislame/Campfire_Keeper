@@ -35,6 +35,15 @@ header
     border-radius: 8px;
 }
 
+#play-area
+{
+    border: 3px solid white;
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 section
 {
     margin-top: 10px;
@@ -49,6 +58,9 @@ section
 
 #game-start-button
 {
+    position: absolute;
+    top: 83%;
+    left: 45%;
     padding: 2mm;
     border-radius: 6px;
     transition: opacity 5s ease;
